@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_201"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Deepak/Desktop/Pairview/Apache Hadoop Essentials/PPT and materials/Module 3 - Hadoop MapReduce Framework/Lab - MapReduce/hadoop-common-2.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Deepak/Desktop/Pairview/Apache Hadoop Essentials/PPT and materials/Module 3 - Hadoop MapReduce Framework/Lab - MapReduce/hadoop-mapreduce-client-core-2.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Deepak/Desktop/Pairview/Apache Hadoop Essentials/PPT and materials/Module 3 - Hadoop MapReduce Framework/Lab - MapReduce/hadoop-mapreduce-examples-2.9.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
